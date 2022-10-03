@@ -4,9 +4,6 @@
 
 ## Домашнее задание 14. Разбор выражений на Prolog
 
-[Исходный код тестов](./tests/src/prolog/prtest/parsing/ParserTest.java)  
-Запускать c указанием модификации (`VarBoolean`) и сложности (`easy` или `hard`).
-
 1.  Доработайте правило `(evaluate Expression Varsiables Result)` вычисляющее арифметические выражения.
 
     1.  Пример вычисления выражения `2x-3` для `x = 5`:
